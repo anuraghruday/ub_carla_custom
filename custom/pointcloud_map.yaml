@@ -1,0 +1,3 @@
+pointcloud_map:
+  format: pcd
+  path: processed.pcd
